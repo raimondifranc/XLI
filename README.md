@@ -1,4 +1,4 @@
-#XL Interpreter
+# XL Interpreter
 
 A tool to map MS/XL derived distance-destraints for one or more proteins on available 3D structures from the PDB. You can run it as a webserver application through http://xlintepreter.russelllab.org/ or as a standalone script.
 
